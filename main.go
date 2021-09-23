@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"contractDemo/conAbi"
+	"backend-demo/conAbi"
 
 	"github.com/ethereum/go-ethereum/common"
 	cr "github.com/ethereum/go-ethereum/crypto"
