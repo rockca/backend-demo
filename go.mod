@@ -1,4 +1,4 @@
-module contractDemo
+module backend-demo
 
 go 1.16
 
